@@ -6,6 +6,7 @@ body{
 
 .container{
   width: 100%;
-  max-width: $wrapper;
+  max-width: $width-wrapper;
+  padding: $padding-wrapper;
   margin: 0;
 }
